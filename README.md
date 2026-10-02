@@ -31,3 +31,23 @@ An enterprise-grade, event-driven SRE automation platform built on AWS that dete
 
 ## 📄 License
 This project is open-source and available under the MIT License.
+
+
+## 📸 Infrastructure & Verification Screenshots
+
+### 1. Multi-AZ VPC Subnet Architecture
+![VPC Setup](01-vpc-multi-az-subnets.png.png)
+
+### 2. Elastic File System (EFS) Storage
+![EFS Storage](02-efs-shared-storage.png.png)
+
+### 3. Multi-AZ EC2 Compute Cluster
+![EC2 Servers](03-ec2-app-servers.png.png)
+
+### 4. SQS & Event Pipeline
+![Event Pipeline](04-sqs-sns-event-pipeline.png.png)
+
+### 5. Automated AI Incident Report (SNS Email Alert)
+![Email Report](05-ai-incident-email-report.png.jpeg)
+
+
